@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.9](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-vim@1.0.8...@cspell/dict-vim@1.0.9) (2025-05-13)
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+
 ## [1.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-vim@1.0.7...@cspell/dict-vim@1.0.8) (2024-12-30)
 
 

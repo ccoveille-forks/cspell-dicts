@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.0](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-typescript@3.2.1...@cspell/dict-typescript@3.3.0) (2025-05-13)
+
+
+### Features
+
+* remove `enableFiletypes` ([#3996](https://github.com/ccoveille-forks/cspell-dicts/issues/3996)) ([6011700](https://github.com/ccoveille-forks/cspell-dicts/commit/6011700cc2d90edd2048f293fe2235b6212a805a))
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Ignore BitInt literal hex numbers. ([#4238](https://github.com/ccoveille-forks/cspell-dicts/issues/4238)) ([db56427](https://github.com/ccoveille-forks/cspell-dicts/commit/db56427bdaaa3bea91a49347fbe393432e2e4731))
+
 ## [3.2.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.2.0...@cspell/dict-typescript@3.2.1) (2025-04-01)
 
 

@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.2.0](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-terraform@1.1.1...@cspell/dict-terraform@1.2.0) (2025-05-13)
+
+
+### Features
+
+* remove `enableFiletypes` ([#3996](https://github.com/ccoveille-forks/cspell-dicts/issues/3996)) ([6011700](https://github.com/ccoveille-forks/cspell-dicts/commit/6011700cc2d90edd2048f293fe2235b6212a805a))
+
+
+### Updates and Bug Fixes
+
+* Add missing Terraform terms ([#3923](https://github.com/ccoveille-forks/cspell-dicts/issues/3923)) ([e2d3af4](https://github.com/ccoveille-forks/cspell-dicts/commit/e2d3af48881222742f88771716fdf74f80f39c18))
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Make sure files of type `tf` use `terraform` dict ([#4137](https://github.com/ccoveille-forks/cspell-dicts/issues/4137)) ([a6e896b](https://github.com/ccoveille-forks/cspell-dicts/commit/a6e896ba4775c11dfac83cd61e991e1a01a21692))
+* Workflow Bot -- Build Dictionaries ([#3926](https://github.com/ccoveille-forks/cspell-dicts/issues/3926)) ([fef49e3](https://github.com/ccoveille-forks/cspell-dicts/commit/fef49e35f7e461df959b6c8f7253aab9b0205a34))
+
 ## [1.1.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-terraform@1.1.0...@cspell/dict-terraform@1.1.1) (2025-03-02)
 
 
