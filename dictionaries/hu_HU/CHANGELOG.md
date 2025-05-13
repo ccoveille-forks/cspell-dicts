@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.2.0](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-hu-hu@1.1.0...@cspell/dict-hu-hu@1.2.0) (2025-05-13)
+
+
+### Features
+
+* Ignore Forbidden Words ([#4289](https://github.com/ccoveille-forks/cspell-dicts/issues/4289)) ([147e72b](https://github.com/ccoveille-forks/cspell-dicts/commit/147e72b3a2acbf54013fc46f36f18cb17b8d6ba7))
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+
 ## [1.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-hu-hu@1.0.5...@cspell/dict-hu-hu@1.1.0) (2025-04-16)
 
 

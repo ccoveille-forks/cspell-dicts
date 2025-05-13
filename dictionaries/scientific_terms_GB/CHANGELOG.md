@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.5](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-scientific-terms-gb@1.0.4...@cspell/dict-scientific-terms-gb@1.0.5) (2025-05-13)
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+
 ## [1.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-scientific-terms-gb@1.0.3...@cspell/dict-scientific-terms-gb@1.0.4) (2024-12-30)
 
 

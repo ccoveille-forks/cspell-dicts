@@ -22,6 +22,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.8](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-scala@5.0.7...@cspell/dict-scala@5.0.8) (2025-05-13)
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+
 ## [5.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-scala@5.0.6...@cspell/dict-scala@5.0.7) (2024-12-30)
 
 

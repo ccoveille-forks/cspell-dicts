@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.19](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-python@4.2.18...@cspell/dict-python@4.2.19) (2025-05-13)
+
+
+### Updates and Bug Fixes
+
+* Add memo and nano to software terms ([#4165](https://github.com/ccoveille-forks/cspell-dicts/issues/4165)) ([aaf8998](https://github.com/ccoveille-forks/cspell-dicts/commit/aaf899837c3f0fd8df32a679b956bc7ad99a2666))
+* add tool names ([#4326](https://github.com/ccoveille-forks/cspell-dicts/issues/4326)) ([67a6d10](https://github.com/ccoveille-forks/cspell-dicts/commit/67a6d1023d6f21edc2c1f553eac51da9c19cd2ee))
+* Added some Python package names ([#3850](https://github.com/ccoveille-forks/cspell-dicts/issues/3850)) ([a093c9d](https://github.com/ccoveille-forks/cspell-dicts/commit/a093c9d9a27073af2762e0f37d27472451c31bf5))
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Workflow Bot -- Build Dictionaries ([#3851](https://github.com/ccoveille-forks/cspell-dicts/issues/3851)) ([0c9be81](https://github.com/ccoveille-forks/cspell-dicts/commit/0c9be814359ee9f49bf04596701db77e2a614bef))
+* Workflow Bot -- Build Dictionaries ([#4333](https://github.com/ccoveille-forks/cspell-dicts/issues/4333)) ([532adeb](https://github.com/ccoveille-forks/cspell-dicts/commit/532adeb899ce52bff9228d8532cb6efbe2061ffe))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cspell/dict-data-science bumped to 2.0.9
+
 ## [4.2.18](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.2.17...@cspell/dict-python@4.2.18) (2025-05-03)
 
 
