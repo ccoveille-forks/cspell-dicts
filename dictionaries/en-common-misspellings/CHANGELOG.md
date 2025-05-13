@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.0.12](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.0.11...@cspell/dict-en-common-misspellings@2.0.12) (2025-05-13)
+
+
+### Updates and Bug Fixes
+
+* add programatic-&gt;programmatic suggestion ([6f4ec6b](https://github.com/ccoveille-forks/cspell-dicts/commit/6f4ec6b8376732a7ee6b120d5a1d28b5c142a6be))
+* Add words from my project ([#3846](https://github.com/ccoveille-forks/cspell-dicts/issues/3846)) ([97282e6](https://github.com/ccoveille-forks/cspell-dicts/commit/97282e6f3e0022e5f527acbb5746a47dbb37d822))
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Remove `witten` from dictionary. ([#4421](https://github.com/ccoveille-forks/cspell-dicts/issues/4421)) ([cf88ff2](https://github.com/ccoveille-forks/cspell-dicts/commit/cf88ff2419366f74e4558236b00eef5740e12038))
+
 ## [2.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.0.10...@cspell/dict-en-common-misspellings@2.0.11) (2025-05-08)
 
 

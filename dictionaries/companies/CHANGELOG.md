@@ -3,6 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.0](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-companies@3.2.1...@cspell/dict-companies@3.3.0) (2025-05-13)
+
+
+### Features
+
+* add new companies ([#4367](https://github.com/ccoveille-forks/cspell-dicts/issues/4367)) ([0d0b60f](https://github.com/ccoveille-forks/cspell-dicts/commit/0d0b60f9f3d542c8ec3eb14e4bedb87085305dee))
+
+
+### Updates and Bug Fixes
+
+* add `Infisical` dicts ([#4046](https://github.com/ccoveille-forks/cspell-dicts/issues/4046)) ([efdb5c5](https://github.com/ccoveille-forks/cspell-dicts/commit/efdb5c5f029318b12e39f7946b40569a32683617))
+* add a few coding and software terms ([#3881](https://github.com/ccoveille-forks/cspell-dicts/issues/3881)) ([0f6a91d](https://github.com/ccoveille-forks/cspell-dicts/commit/0f6a91d7c4aa74180798a1b2fcbe338c3900d173))
+* Add additional terms to spelling lists from `GoogleCloudPlatform/generative-ai` ([#4013](https://github.com/ccoveille-forks/cspell-dicts/issues/4013)) ([ed34213](https://github.com/ccoveille-forks/cspell-dicts/commit/ed342139c37a50c7fd35ea6b15e54947076686c7))
+* add Bluesky and Emojipedia to companies dictionary ([#3916](https://github.com/ccoveille-forks/cspell-dicts/issues/3916)) ([3a92d32](https://github.com/ccoveille-forks/cspell-dicts/commit/3a92d326b8fcd3a5386ac6fcc2dd08aaf13f5df6))
+* add fonticons (fontawesome) to companies ([#4280](https://github.com/ccoveille-forks/cspell-dicts/issues/4280)) ([c1fc864](https://github.com/ccoveille-forks/cspell-dicts/commit/c1fc864a4b81222260c7a8dfa93ed30063e5959a))
+* Add missing companies + software tool terms ([#3934](https://github.com/ccoveille-forks/cspell-dicts/issues/3934)) ([dd7b4d5](https://github.com/ccoveille-forks/cspell-dicts/commit/dd7b4d554cbe5f42f91e4a7c00398074c4aa85b5))
+* Add words to companies, npm and software-terms dictionnaries ([#3864](https://github.com/ccoveille-forks/cspell-dicts/issues/3864)) ([26faf0e](https://github.com/ccoveille-forks/cspell-dicts/commit/26faf0eadee55c3ee704aed949d424fae1c82373))
+* Adjust dictionary names ([#3958](https://github.com/ccoveille-forks/cspell-dicts/issues/3958)) ([8a96533](https://github.com/ccoveille-forks/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Workflow Bot -- Build Dictionaries ([#3895](https://github.com/ccoveille-forks/cspell-dicts/issues/3895)) ([7286910](https://github.com/ccoveille-forks/cspell-dicts/commit/72869100c67a69419f53aa6c1033f45a856c7ca6))
+* Workflow Bot -- Build Dictionaries ([#3905](https://github.com/ccoveille-forks/cspell-dicts/issues/3905)) ([be13370](https://github.com/ccoveille-forks/cspell-dicts/commit/be133706cc0ce07c27f5b7c649d9623a61c0cbea))
+* Workflow Bot -- Build Dictionaries ([#3914](https://github.com/ccoveille-forks/cspell-dicts/issues/3914)) ([7cbc5bf](https://github.com/ccoveille-forks/cspell-dicts/commit/7cbc5bff8336a47d0602e823149e26a3996d3c4c))
+* Workflow Bot -- Build Dictionaries ([#3935](https://github.com/ccoveille-forks/cspell-dicts/issues/3935)) ([2b9ec7f](https://github.com/ccoveille-forks/cspell-dicts/commit/2b9ec7fb86c55c20e1719816fb6ec33b661e48d7))
+* Workflow Bot -- Build Dictionaries ([#4016](https://github.com/ccoveille-forks/cspell-dicts/issues/4016)) ([ced2e71](https://github.com/ccoveille-forks/cspell-dicts/commit/ced2e7193013a4011555a690171431d4cab6734f))
+* Workflow Bot -- Build Dictionaries ([#4048](https://github.com/ccoveille-forks/cspell-dicts/issues/4048)) ([edbca9e](https://github.com/ccoveille-forks/cspell-dicts/commit/edbca9e6445b519d4cb027518d1c47f146214ec9))
+* Workflow Bot -- Build Dictionaries ([#4286](https://github.com/ccoveille-forks/cspell-dicts/issues/4286)) ([69da562](https://github.com/ccoveille-forks/cspell-dicts/commit/69da562bdbd13d9211fa1392b532565b1ea74735))
+* Workflow Bot -- Build Dictionaries ([#4383](https://github.com/ccoveille-forks/cspell-dicts/issues/4383)) ([9e84dfc](https://github.com/ccoveille-forks/cspell-dicts/commit/9e84dfcc64fac08bb5a6e92ccfc80121e069ff45))
+* Workflow Bot -- Update Dictionaries ([#4382](https://github.com/ccoveille-forks/cspell-dicts/issues/4382)) ([f35bbf0](https://github.com/ccoveille-forks/cspell-dicts/commit/f35bbf048eb631963f62eece5843573a821103d5))
+
+
+### Tests
+
+* Improve tests for Companies ([#4378](https://github.com/ccoveille-forks/cspell-dicts/issues/4378)) ([62d03f1](https://github.com/ccoveille-forks/cspell-dicts/commit/62d03f1155a9f11e352e688e916dde7c5f233254))
+
 ## [3.2.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.2.0...@cspell/dict-companies@3.2.1) (2025-05-04)
 
 

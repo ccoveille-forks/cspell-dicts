@@ -22,6 +22,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.5](https://github.com/ccoveille-forks/cspell-dicts/compare/@cspell/dict-city-names-finland@3.0.4...@cspell/dict-city-names-finland@3.0.5) (2025-05-13)
+
+
+### Updates and Bug Fixes
+
+* make it easier to turn off dictionary ([#3940](https://github.com/ccoveille-forks/cspell-dicts/issues/3940)) ([d9821c6](https://github.com/ccoveille-forks/cspell-dicts/commit/d9821c66026e122d5718487a8de3c3ff687bf72d))
+
 ## [3.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-city-names-finland@3.0.3...@cspell/dict-city-names-finland@3.0.4) (2024-12-27)
 
 
