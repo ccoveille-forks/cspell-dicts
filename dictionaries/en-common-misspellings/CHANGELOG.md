@@ -1,5 +1,26 @@
 # Change Log
 
+## [2.2.0](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.1.6...@cspell/dict-en-common-misspellings@2.2.0) (2025-09-13)
+
+
+### Features
+
+* Add typos from crate-ci ([#4538](https://github.com/ccoVeille/cspell-dicts/issues/4538)) ([9acc823](https://github.com/ccoVeille/cspell-dicts/commit/9acc823eb836c106a93843b93982c13043d22a2d))
+
+
+### Updates and Bug Fixes
+
+* Add misspelling suggestion for `remnat->remnant` ([#4767](https://github.com/ccoVeille/cspell-dicts/issues/4767)) ([4f8de9c](https://github.com/ccoVeille/cspell-dicts/commit/4f8de9cecb1333c9d0426449e7ecad782be88c31))
+* add suggestion of enterprise. ([#4495](https://github.com/ccoVeille/cspell-dicts/issues/4495)) ([de20da8](https://github.com/ccoVeille/cspell-dicts/commit/de20da81f2d3f6fd41d40244df1a74f4b5be8ebd))
+* Convert YAML to JSON for speed. ([#4545](https://github.com/ccoVeille/cspell-dicts/issues/4545)) ([d12dfe6](https://github.com/ccoVeille/cspell-dicts/commit/d12dfe65ece54a1508533c3aed44ceb6e79af4da))
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Remove `typw` from the English dictionary ([#4774](https://github.com/ccoVeille/cspell-dicts/issues/4774)) ([b57f9a2](https://github.com/ccoVeille/cspell-dicts/commit/b57f9a2db71043ffa16f7c895fa8b82f39f5bb78))
+* Remove `witten` from dictionary. ([#4421](https://github.com/ccoVeille/cspell-dicts/issues/4421)) ([cf88ff2](https://github.com/ccoVeille/cspell-dicts/commit/cf88ff2419366f74e4558236b00eef5740e12038))
+* Workflow Bot -- Build Dictionaries ([#4494](https://github.com/ccoVeille/cspell-dicts/issues/4494)) ([273998b](https://github.com/ccoVeille/cspell-dicts/commit/273998b2f0a005186220b71948d72556d923de57))
+* Workflow Bot -- Build Dictionaries ([#4537](https://github.com/ccoVeille/cspell-dicts/issues/4537)) ([d961b7b](https://github.com/ccoVeille/cspell-dicts/commit/d961b7bddf2390d7606681433b4245aa2b660778))
+* Workflow Bot -- Build Dictionaries ([#4599](https://github.com/ccoVeille/cspell-dicts/issues/4599)) ([a273cbc](https://github.com/ccoVeille/cspell-dicts/commit/a273cbca8dfc04a9635fe701f2184d56c170eb1d))
+* Workflow Bot -- Build Dictionaries ([#4790](https://github.com/ccoVeille/cspell-dicts/issues/4790)) ([3864e50](https://github.com/ccoVeille/cspell-dicts/commit/3864e508eac5c7fbb3124b54d8acd28985a234af))
+
 ## [2.1.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.1.5...@cspell/dict-en-common-misspellings@2.1.6) (2025-09-06)
 
 

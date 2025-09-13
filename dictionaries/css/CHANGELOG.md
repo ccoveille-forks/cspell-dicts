@@ -22,6 +22,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.19](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-css@4.0.18...@cspell/dict-css@4.0.19) (2025-09-13)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [4.0.18](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.17...@cspell/dict-css@4.0.18) (2025-07-09)
 
 
