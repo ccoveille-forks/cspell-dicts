@@ -1,5 +1,29 @@
 # Change Log
 
+## [1.1.15](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-people-names@1.1.14...@cspell/dict-people-names@1.1.15) (2025-09-13)
+
+
+### Updates and Bug Fixes
+
+* [names] Add some names ([#4634](https://github.com/ccoVeille/cspell-dicts/issues/4634)) ([c7c2257](https://github.com/ccoVeille/cspell-dicts/commit/c7c225704fef9c187314b837b65797cb218f316d))
+* Add Bachstein to names.txt ([#4723](https://github.com/ccoVeille/cspell-dicts/issues/4723)) ([fccaf37](https://github.com/ccoVeille/cspell-dicts/commit/fccaf3706f782b34a2882ee3199636222f3823cc))
+* Add Bjorn to names.txt ([#4721](https://github.com/ccoVeille/cspell-dicts/issues/4721)) ([426f4e3](https://github.com/ccoVeille/cspell-dicts/commit/426f4e30e1abe2efe3695a89a177f02f7a1c872d))
+* Add Clarkberg to names.txt ([#4722](https://github.com/ccoVeille/cspell-dicts/issues/4722)) ([d9797b9](https://github.com/ccoVeille/cspell-dicts/commit/d9797b96202526697d342a6cf0a5482d16eef4bb))
+* add my name to dictionary ([#4605](https://github.com/ccoVeille/cspell-dicts/issues/4605)) ([63a1745](https://github.com/ccoVeille/cspell-dicts/commit/63a1745dd4abc09bb63ee8f3d80c5f2672612829))
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update people-names dictionary ([#4466](https://github.com/ccoVeille/cspell-dicts/issues/4466)) ([24c4469](https://github.com/ccoVeille/cspell-dicts/commit/24c446930c8d238c1e98f373fd5e8d69896520ab))
+* Update README.md ([#4660](https://github.com/ccoVeille/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/ccoVeille/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#4469](https://github.com/ccoVeille/cspell-dicts/issues/4469)) ([89b0f94](https://github.com/ccoVeille/cspell-dicts/commit/89b0f9471aff20ceaa44279cc586b7b1c038af97))
+* Workflow Bot -- Build Dictionaries ([#4607](https://github.com/ccoVeille/cspell-dicts/issues/4607)) ([decec79](https://github.com/ccoVeille/cspell-dicts/commit/decec79ddbb8e6782241ede6ee8bbeb9702ab5ab))
+* Workflow Bot -- Build Dictionaries ([#4642](https://github.com/ccoVeille/cspell-dicts/issues/4642)) ([41a10f4](https://github.com/ccoVeille/cspell-dicts/commit/41a10f4a16c6ff2e232ec1afe111a4bc1f88a2b7))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @internal/en-freq bumped to 1.0.1
+
 ## [1.1.14](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-people-names@1.1.13...@cspell/dict-people-names@1.1.14) (2025-08-12)
 
 
