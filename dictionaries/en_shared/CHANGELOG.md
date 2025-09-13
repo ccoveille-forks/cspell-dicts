@@ -1,5 +1,45 @@
 # Change Log
 
+## [1.0.43](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-en-shared@1.0.42...@cspell/dict-en-shared@1.0.43) (2025-09-13)
+
+
+### Updates and Bug Fixes
+
+* Add `unbundle` to English shared ([#4522](https://github.com/ccoVeille/cspell-dicts/issues/4522)) ([cef32fa](https://github.com/ccoVeille/cspell-dicts/commit/cef32fa94cb737155d344dc069eac5549b347759))
+* add `unsized` to `en_shared` dictionary ([#4224](https://github.com/ccoVeille/cspell-dicts/issues/4224)) ([aa188f2](https://github.com/ccoVeille/cspell-dicts/commit/aa188f2073ceb58f31aa48630d11ad5358fdd060))
+* Add a few English words ([#4655](https://github.com/ccoVeille/cspell-dicts/issues/4655)) ([e035a38](https://github.com/ccoVeille/cspell-dicts/commit/e035a388bfd73a6201a3c69b44f188af303ff1eb))
+* add Australian animals names to en_shared ([#4581](https://github.com/ccoVeille/cspell-dicts/issues/4581)) ([aec1a8e](https://github.com/ccoVeille/cspell-dicts/commit/aec1a8e26d85fa5f117052bbcd2af8066079c24e))
+* Add automotive-related words ([#4244](https://github.com/ccoVeille/cspell-dicts/issues/4244)) ([8112eb8](https://github.com/ccoVeille/cspell-dicts/commit/8112eb8fb2a9d31f344128ed5bb3f7bcd549a547))
+* add bézier to dictionary ([#4282](https://github.com/ccoVeille/cspell-dicts/issues/4282)) ([ca46765](https://github.com/ccoVeille/cspell-dicts/commit/ca46765131a7c36202bd9c91b4cdd2c4d3bab290))
+* add common English acronyms ([#4371](https://github.com/ccoVeille/cspell-dicts/issues/4371)) ([2062be7](https://github.com/ccoVeille/cspell-dicts/commit/2062be74ee4cfb52cbffcf9ceb092b39368e9a49))
+* add disinvite  ([#4794](https://github.com/ccoVeille/cspell-dicts/issues/4794)) ([7a41159](https://github.com/ccoVeille/cspell-dicts/commit/7a411598cf80e50776de830a0a094a0d3fe661f3))
+* Add more legacy words to en_GB-MIT ([#4385](https://github.com/ccoVeille/cspell-dicts/issues/4385)) ([4e6394a](https://github.com/ccoVeille/cspell-dicts/commit/4e6394abd77cd65f9aa6dab5466b4ba2be0f2a71))
+* add software terms ([#4739](https://github.com/ccoVeille/cspell-dicts/issues/4739)) ([0c0f942](https://github.com/ccoVeille/cspell-dicts/commit/0c0f942cd96b392c0273540c90c556f7e1ef73f3))
+* add the word "initialisms" to en_shared ([#4303](https://github.com/ccoVeille/cspell-dicts/issues/4303)) ([9957ed8](https://github.com/ccoVeille/cspell-dicts/commit/9957ed86c4042c148d34cd82802e354290424c37))
+* add words to dictionary ([#4252](https://github.com/ccoVeille/cspell-dicts/issues/4252)) ([a1b70e1](https://github.com/ccoVeille/cspell-dicts/commit/a1b70e156c63cfe02e6a9d70d614da1894661906))
+* english acronyms ([#4356](https://github.com/ccoVeille/cspell-dicts/issues/4356)) ([bf7287d](https://github.com/ccoVeille/cspell-dicts/commit/bf7287dc7353045d3a9c97e3975afdb0b7c23f4b))
+* English cleanup ([#4391](https://github.com/ccoVeille/cspell-dicts/issues/4391)) ([3455b64](https://github.com/ccoVeille/cspell-dicts/commit/3455b64f9bd6f9c4a1f6d53e3cc84ea8d7d63e1f))
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Remove `typw` from the English dictionary ([#4774](https://github.com/ccoVeille/cspell-dicts/issues/4774)) ([b57f9a2](https://github.com/ccoVeille/cspell-dicts/commit/b57f9a2db71043ffa16f7c895fa8b82f39f5bb78))
+* Update README.md ([#4660](https://github.com/ccoVeille/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/ccoVeille/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#4235](https://github.com/ccoVeille/cspell-dicts/issues/4235)) ([cb96bfd](https://github.com/ccoVeille/cspell-dicts/commit/cb96bfd8b81f38b62af1b87704dfb2de8f651cc9))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/ccoVeille/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/ccoVeille/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/ccoVeille/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/ccoVeille/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+* Workflow Bot -- Build Dictionaries ([#4287](https://github.com/ccoVeille/cspell-dicts/issues/4287)) ([9ab559e](https://github.com/ccoVeille/cspell-dicts/commit/9ab559e17e9d5ffba2408d95d985c13bf2739d2a))
+* Workflow Bot -- Build Dictionaries ([#4305](https://github.com/ccoVeille/cspell-dicts/issues/4305)) ([10ad522](https://github.com/ccoVeille/cspell-dicts/commit/10ad5222455afc0a5f8fb1a3233c8055fa044697))
+* Workflow Bot -- Build Dictionaries ([#4364](https://github.com/ccoVeille/cspell-dicts/issues/4364)) ([7c216ed](https://github.com/ccoVeille/cspell-dicts/commit/7c216edb421a3b5b58577ec091fdce83fe0d4b85))
+* Workflow Bot -- Build Dictionaries ([#4373](https://github.com/ccoVeille/cspell-dicts/issues/4373)) ([6bf448a](https://github.com/ccoVeille/cspell-dicts/commit/6bf448abae2c3c2999e761c7a335276573eebce9))
+* Workflow Bot -- Build Dictionaries ([#4386](https://github.com/ccoVeille/cspell-dicts/issues/4386)) ([2e1d877](https://github.com/ccoVeille/cspell-dicts/commit/2e1d8776dcf8e93bbd9b130db05559916ad81c0b))
+* Workflow Bot -- Build Dictionaries ([#4406](https://github.com/ccoVeille/cspell-dicts/issues/4406)) ([7e02e36](https://github.com/ccoVeille/cspell-dicts/commit/7e02e36dd735dd9d28639f230301cd057715873d))
+* Workflow Bot -- Build Dictionaries ([#4412](https://github.com/ccoVeille/cspell-dicts/issues/4412)) ([5568803](https://github.com/ccoVeille/cspell-dicts/commit/5568803c88620b0e80d2048911222c627accafa7))
+* Workflow Bot -- Build Dictionaries ([#4521](https://github.com/ccoVeille/cspell-dicts/issues/4521)) ([8c68505](https://github.com/ccoVeille/cspell-dicts/commit/8c68505f0ccb0f762571485f845cf9476303f57e))
+* Workflow Bot -- Build Dictionaries ([#4657](https://github.com/ccoVeille/cspell-dicts/issues/4657)) ([f1dcc18](https://github.com/ccoVeille/cspell-dicts/commit/f1dcc18e22e3d06ab438d46205d1b06dc622d5ee))
+
+
+### Code Refactoring
+
+* consolidate English shared `-ise` words into `shared-additional-words-ise.txt` ([#4397](https://github.com/ccoVeille/cspell-dicts/issues/4397)) ([36a1d61](https://github.com/ccoVeille/cspell-dicts/commit/36a1d612042a7e1d707a1c10c6c59c948fb43034))
+
 ## [1.0.42](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.41...@cspell/dict-en-shared@1.0.42) (2025-09-06)
 
 

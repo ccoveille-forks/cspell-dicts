@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.8](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-git@3.0.7...@cspell/dict-git@3.0.8) (2025-09-13)
+
+
+### Updates and Bug Fixes
+
+* Enable git dictionary for commit-msg ([#4452](https://github.com/ccoVeille/cspell-dicts/issues/4452)) ([8b5e858](https://github.com/ccoVeille/cspell-dicts/commit/8b5e85839bd6495e4a2341cae08c05f46ce8a4e5))
+* git - enable git dictionary in `.github` ([#4516](https://github.com/ccoVeille/cspell-dicts/issues/4516)) ([be26a4d](https://github.com/ccoVeille/cspell-dicts/commit/be26a4d167aa8e1c063868cc40963b3e06402b22))
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [3.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-git@3.0.6...@cspell/dict-git@3.0.7) (2025-07-09)
 
 

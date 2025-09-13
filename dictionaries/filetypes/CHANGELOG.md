@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.14](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-filetypes@3.0.13...@cspell/dict-filetypes@3.0.14) (2025-09-13)
+
+
+### Updates and Bug Fixes
+
+* add more file types to filetypes dictionary ([#4369](https://github.com/ccoVeille/cspell-dicts/issues/4369)) ([1372621](https://github.com/ccoVeille/cspell-dicts/commit/1372621b748bf17e048bc0be5f5b10ec85c7a022))
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Workflow Bot -- Build Dictionaries ([#4375](https://github.com/ccoVeille/cspell-dicts/issues/4375)) ([9d3a8f6](https://github.com/ccoVeille/cspell-dicts/commit/9d3a8f6672838fab18d026dec622e6b43df0f92a))
+
 ## [3.0.13](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-filetypes@3.0.12...@cspell/dict-filetypes@3.0.13) (2025-07-09)
 
 

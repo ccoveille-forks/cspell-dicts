@@ -1,5 +1,22 @@
 # Change Log
 
+## [2.0.13](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-markdown@2.0.12...@cspell/dict-markdown@2.0.13) (2025-09-13)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * peerDependencies
+    * @cspell/dict-css bumped to 4.0.19
+    * @cspell/dict-html bumped to 4.0.13
+    * @cspell/dict-html-symbol-entities bumped to 4.0.5
+    * @cspell/dict-typescript bumped to 3.2.4
+
 ## [2.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-markdown@2.0.11...@cspell/dict-markdown@2.0.12) (2025-07-09)
 
 

@@ -3,6 +3,62 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.2.0](https://github.com/ccoVeille/cspell-dicts/compare/@cspell/dict-software-terms@5.1.8...@cspell/dict-software-terms@5.2.0) (2025-09-13)
+
+
+### Features
+
+* Add many spelling suggestions from "typos" ([#4542](https://github.com/ccoVeille/cspell-dicts/issues/4542)) ([7cce1a4](https://github.com/ccoVeille/cspell-dicts/commit/7cce1a4f6585f148befed8416d4e20df06d1f73c))
+
+
+### Updates and Bug Fixes
+
+* [software-tools] Add missing tools ([#4679](https://github.com/ccoVeille/cspell-dicts/issues/4679)) ([f11bf97](https://github.com/ccoVeille/cspell-dicts/commit/f11bf978bbc66b7377dcd3cce278a7ca65f5ab24))
+* [software-tools] Added IaC tools ([#4627](https://github.com/ccoVeille/cspell-dicts/issues/4627)) ([4ee9981](https://github.com/ccoVeille/cspell-dicts/commit/4ee9981b0c663785ddc5fbde12f4ccb065411763))
+* add 'Adminer' to software tools dictionary ([#4509](https://github.com/ccoVeille/cspell-dicts/issues/4509)) ([d7b3503](https://github.com/ccoVeille/cspell-dicts/commit/d7b350327efdea90034b00aff4a5a0e4d1b86886))
+* add 'conventionalcommits' ([#4557](https://github.com/ccoVeille/cspell-dicts/issues/4557)) ([758d091](https://github.com/ccoVeille/cspell-dicts/commit/758d091fdc146a5094974eba696d9f3f07491a85))
+* Add 'devContainers' to coding terms list ([#4798](https://github.com/ccoVeille/cspell-dicts/issues/4798)) ([70e1a94](https://github.com/ccoVeille/cspell-dicts/commit/70e1a943caeee23b4741d646a689e10c48637ab3))
+* add 'Gerrit' to software tools dictionary ([#4510](https://github.com/ccoVeille/cspell-dicts/issues/4510)) ([710a19e](https://github.com/ccoVeille/cspell-dicts/commit/710a19ea972d2f32a58f9481a564af92306656f3))
+* add 'helm' and 'helmfile' to software tools dictionary ([#4515](https://github.com/ccoVeille/cspell-dicts/issues/4515)) ([b63afb9](https://github.com/ccoVeille/cspell-dicts/commit/b63afb92c543d29f7bccd7268e825bd7f9d730b4))
+* add 'Mailgun' to software services dictionary ([#4517](https://github.com/ccoVeille/cspell-dicts/issues/4517)) ([89e7f7e](https://github.com/ccoVeille/cspell-dicts/commit/89e7f7eb54a5bb80061996c8dea838932dd96694))
+* add 'MailHog' to software tools dictionary ([#4514](https://github.com/ccoVeille/cspell-dicts/issues/4514)) ([d8e3582](https://github.com/ccoVeille/cspell-dicts/commit/d8e3582e9c5aeb908a82193d24cef5fc7559a6d0))
+* add 'mdast' ([#4585](https://github.com/ccoVeille/cspell-dicts/issues/4585)) ([c1472b3](https://github.com/ccoVeille/cspell-dicts/commit/c1472b324249a34026441a22263e7bffd4a021be))
+* Add 'ohmyzsh' and 'oh-my-zsh' to software tools list ([#4799](https://github.com/ccoVeille/cspell-dicts/issues/4799)) ([0effc1f](https://github.com/ccoVeille/cspell-dicts/commit/0effc1f0fb8d12df82e3d28305573be48ee09d17))
+* add 'OpenTofu' to software tools dictionary ([#4511](https://github.com/ccoVeille/cspell-dicts/issues/4511)) ([e63ed94](https://github.com/ccoVeille/cspell-dicts/commit/e63ed94bb30006be7b26281915c956555a55ac45))
+* add "Phabricator" and "Phorge" to `software-tools.txt` ([#4512](https://github.com/ccoVeille/cspell-dicts/issues/4512)) ([5248da1](https://github.com/ccoVeille/cspell-dicts/commit/5248da1b5449cb4e0cb0e1805a56907574c4cf82))
+* Add a few coding terms ([#4394](https://github.com/ccoVeille/cspell-dicts/issues/4394)) ([c86f1ea](https://github.com/ccoVeille/cspell-dicts/commit/c86f1eaf2d9b1c015264cf845c4c78efb6efc54a))
+* Add automotive-related words ([#4244](https://github.com/ccoVeille/cspell-dicts/issues/4244)) ([8112eb8](https://github.com/ccoVeille/cspell-dicts/commit/8112eb8fb2a9d31f344128ed5bb3f7bcd549a547))
+* add computing acronyms ([#4370](https://github.com/ccoVeille/cspell-dicts/issues/4370)) ([9725f65](https://github.com/ccoVeille/cspell-dicts/commit/9725f655d38e6f57c4018f2bf6fcbba99c8f449b))
+* add decel to coding-terms ([#4327](https://github.com/ccoVeille/cspell-dicts/issues/4327)) ([94b70f2](https://github.com/ccoVeille/cspell-dicts/commit/94b70f289931c3b5518336a91ae6795bfd53c7ce))
+* add decompile to software terms ([#4255](https://github.com/ccoVeille/cspell-dicts/issues/4255)) ([8517aba](https://github.com/ccoVeille/cspell-dicts/commit/8517aba90a6316506ccb10e843c40bf4534926b2))
+* add demosaic to software-terms ([#4324](https://github.com/ccoVeille/cspell-dicts/issues/4324)) ([65355c7](https://github.com/ccoVeille/cspell-dicts/commit/65355c710a29cfec127868c12eff92006e62e958))
+* add Docker-related words ([#4328](https://github.com/ccoVeille/cspell-dicts/issues/4328)) ([915e125](https://github.com/ccoVeille/cspell-dicts/commit/915e125aed9f3cf80e85bb0c03ae6a0c93582b22))
+* add pre-commit-related words to coding-terms ([#4329](https://github.com/ccoVeille/cspell-dicts/issues/4329)) ([77a8897](https://github.com/ccoVeille/cspell-dicts/commit/77a8897d52ffaa40bb5649e7c2ed16c917ea602d))
+* add software terms ([#4739](https://github.com/ccoVeille/cspell-dicts/issues/4739)) ([0c0f942](https://github.com/ccoVeille/cspell-dicts/commit/0c0f942cd96b392c0273540c90c556f7e1ef73f3))
+* Add software tool names ([#4248](https://github.com/ccoVeille/cspell-dicts/issues/4248)) ([d32b339](https://github.com/ccoVeille/cspell-dicts/commit/d32b339a140b7a43807a74e8900d780bf854998b))
+* add software tools to software-terms dictionary ([#4368](https://github.com/ccoVeille/cspell-dicts/issues/4368)) ([df0fd38](https://github.com/ccoVeille/cspell-dicts/commit/df0fd385a25908964695f0f9567f16549f76cf99))
+* add tool names ([#4326](https://github.com/ccoVeille/cspell-dicts/issues/4326)) ([67a6d10](https://github.com/ccoVeille/cspell-dicts/commit/67a6d1023d6f21edc2c1f553eac51da9c19cd2ee))
+* add variations of commit to software corrections ([#4437](https://github.com/ccoVeille/cspell-dicts/issues/4437)) ([46b5a25](https://github.com/ccoVeille/cspell-dicts/commit/46b5a2565f887fd377b9f96b22f6c700e2b052ce))
+* english acronyms ([#4356](https://github.com/ccoVeille/cspell-dicts/issues/4356)) ([bf7287d](https://github.com/ccoVeille/cspell-dicts/commit/bf7287dc7353045d3a9c97e3975afdb0b7c23f4b))
+* Improve install documentation ([#4640](https://github.com/ccoVeille/cspell-dicts/issues/4640)) ([ce83729](https://github.com/ccoVeille/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update software-services.txt ([#4758](https://github.com/ccoVeille/cspell-dicts/issues/4758)) ([874b309](https://github.com/ccoVeille/cspell-dicts/commit/874b309a9fa778829db77a62415e2f494a4e0df5))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/ccoVeille/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/ccoVeille/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+* Workflow Bot -- Build Dictionaries ([#4249](https://github.com/ccoVeille/cspell-dicts/issues/4249)) ([480fcf7](https://github.com/ccoVeille/cspell-dicts/commit/480fcf73ac97e5017376e6ab61e757e7d7725143))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/ccoVeille/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/ccoVeille/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+* Workflow Bot -- Build Dictionaries ([#4332](https://github.com/ccoVeille/cspell-dicts/issues/4332)) ([76f5606](https://github.com/ccoVeille/cspell-dicts/commit/76f560625132b9d8f87999be76897c97217b5d22))
+* Workflow Bot -- Build Dictionaries ([#4333](https://github.com/ccoVeille/cspell-dicts/issues/4333)) ([532adeb](https://github.com/ccoVeille/cspell-dicts/commit/532adeb899ce52bff9228d8532cb6efbe2061ffe))
+* Workflow Bot -- Build Dictionaries ([#4335](https://github.com/ccoVeille/cspell-dicts/issues/4335)) ([7c29b35](https://github.com/ccoVeille/cspell-dicts/commit/7c29b3555796226013c2c7299c0352b501fd4dc2))
+* Workflow Bot -- Build Dictionaries ([#4364](https://github.com/ccoVeille/cspell-dicts/issues/4364)) ([7c216ed](https://github.com/ccoVeille/cspell-dicts/commit/7c216edb421a3b5b58577ec091fdce83fe0d4b85))
+* Workflow Bot -- Build Dictionaries ([#4373](https://github.com/ccoVeille/cspell-dicts/issues/4373)) ([6bf448a](https://github.com/ccoVeille/cspell-dicts/commit/6bf448abae2c3c2999e761c7a335276573eebce9))
+* Workflow Bot -- Build Dictionaries ([#4374](https://github.com/ccoVeille/cspell-dicts/issues/4374)) ([10384fc](https://github.com/ccoVeille/cspell-dicts/commit/10384fcdc9d53e5961d234ef2979f94e049aa592))
+* Workflow Bot -- Build Dictionaries ([#4396](https://github.com/ccoVeille/cspell-dicts/issues/4396)) ([e403efc](https://github.com/ccoVeille/cspell-dicts/commit/e403efc5edc0c356d03e61fc62c78955baa7973e))
+* Workflow Bot -- Build Dictionaries ([#4455](https://github.com/ccoVeille/cspell-dicts/issues/4455)) ([2269177](https://github.com/ccoVeille/cspell-dicts/commit/2269177dc85095fde86003d5b112bbba218ed8a7))
+* Workflow Bot -- Build Dictionaries ([#4507](https://github.com/ccoVeille/cspell-dicts/issues/4507)) ([f1739a7](https://github.com/ccoVeille/cspell-dicts/commit/f1739a7b97a319e19680de5dea4b6790ba40d638))
+* Workflow Bot -- Build Dictionaries ([#4520](https://github.com/ccoVeille/cspell-dicts/issues/4520)) ([8b2f899](https://github.com/ccoVeille/cspell-dicts/commit/8b2f89967cf8aceea5e53011b34540b3a70eb254))
+* Workflow Bot -- Build Dictionaries ([#4586](https://github.com/ccoVeille/cspell-dicts/issues/4586)) ([c7deced](https://github.com/ccoVeille/cspell-dicts/commit/c7deced68417d00fb325ed190494f7297f62f661))
+* Workflow Bot -- Build Dictionaries ([#4801](https://github.com/ccoVeille/cspell-dicts/issues/4801)) ([81198ca](https://github.com/ccoVeille/cspell-dicts/commit/81198cae03a3ecdb4252326e9fbbe194daa32a9c))
+* Workflow Bot -- Update Dictionaries ([#4462](https://github.com/ccoVeille/cspell-dicts/issues/4462)) ([37ab5c4](https://github.com/ccoVeille/cspell-dicts/commit/37ab5c4d2759f9f76818c45b052955428a8f4635))
+
 ## [5.1.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-software-terms@5.1.7...@cspell/dict-software-terms@5.1.8) (2025-09-08)
 
 
